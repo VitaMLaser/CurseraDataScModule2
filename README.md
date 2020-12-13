@@ -25,9 +25,9 @@ help(package = "ggplot2")
 browseVignettes("ggplot2")
 ```
 
-## Sonstiges
+## Others
 
-- bullets
+- normal
 - **bolt**
 - *italic*
 - ~~strikethrough~~

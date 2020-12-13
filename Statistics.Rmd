@@ -1,0 +1,58 @@
+---
+title: "Statistics"
+author: "V.M."
+date: "13 12 2020"
+output: pdf_document
+---
+
+# Statistics
+
+## Terminologie
+
+**Population** (Gesamtheit) ist die Menge der potentiellen Untersuchungsobjekte  
+sachlich, räumlich, zeitlich eingeschränkt  
+**Erhebung (Survery)** (Studie, Meinungsumfrage)  
+**Stichprobe (Sample)** ist die Beschränkte Menge der Population  
+**repräsentative** Stichprobe  
+**Teil-** und **Vollerhebung** (Stichprobe und Umfrage der gesamten Population)  
+**Einzelobjekt** (Fall oder Patient) ist eine **statistische Einheit**, die ein bestimmtes  
+**Merkmal (Parameter)** aufweist oder sogar **Merkmalkombination**  
+**Variable** (Merkmale)  
+**Merkmalsausprägungen** sind Werte der Merkmale  
+Statistische **Daten** sind erhobene Merkmalsausprägungen und werden in
+**Urliste** aufgelistet  
+**Verzerrter Bias** ist ein systematischer Fehler
+  
+**Primärstatistik (Field Research)**: Erhebung muss gemacht werden.
+**Sekundärstatistik (Desk Research)**: Daten liegen bereits vor.
+  
+**Erhebungsarten:**
+
+- **Beobachtung**
+- **Experiment**
+- **Befragung**
+
+Untersuchungsergebnisse müssen:
+
+- objektiv (unabhängig)
+- valide (konkret definiert)
+- reliabel (rekonstruierbar)
+
+sein.
+
+**Skalenniveaus**: aufsteigend:
+
+- Nominal (qualtitative Daten). z.B. Augenfarben, Geschlecht
+- Ordinal (qualtitative Daten mit ordnung) z.B. Gefahrenklassen, Bildungsgrad
+- Invervall (quantitative Daten) - Metrische Skala. z.B. Jahreszahlen
+- Verhältnis (qualtitative Daten) - Metrische Skala z.B. Gewicht, Einkommen
+
+## Typen
+Different Types of Statistical Analysis
+Descriptive Type of Statistical Analysis.
+Inferential Type of Statistical Analysis.
+Prescriptive Analysis.
+Predictive Analysis.
+Casual Analysis.
+Exploratory Data Analysis.
+Mechanistic Analysis.
